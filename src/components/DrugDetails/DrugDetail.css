@@ -1,0 +1,44 @@
+.drug-detail {
+  width: 80%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.drug-detail h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.drug-detail-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.drug-detail-table th,
+.drug-detail-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.drug-detail-key {
+  font-weight: bold;
+  background-color: #f9f9f9;
+}
+
+.drug-detail-value {
+  background-color: #fff;
+}
+
+.loading {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 20px;
+}
